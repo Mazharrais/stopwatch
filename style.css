@@ -1,0 +1,11 @@
+body{
+    background-color: lightgreen;
+    text-align: center;
+    
+}
+h1{
+    display: inline-block;
+    width: 170px;
+    background-color: white;
+
+}
